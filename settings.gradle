@@ -1,0 +1,4 @@
+include ':democontract'
+include ':demolibrary'
+rootProject.name='Kotlin Architecture Demo'
+include ':sampleapp'

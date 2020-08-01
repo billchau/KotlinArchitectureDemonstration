@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Architecture Demo</string>
+    <string name="et_currency_input_hint">Input the currency amount</string>
+    <string name="et_currency_result_hint">Calculation currency amount</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_swap">swap</string>
+</resources>

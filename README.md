@@ -31,4 +31,4 @@ Although Dagger2 provides inversion of control, it creates a lot of boilerplates
 
 Unit test and UI test are used to ensure the quality of application. However, in real life, the requirements are changed frequently and your tests are also changed frequently. Also, the tests are complicated and fancy that require some time to develop. Those efforts will increase the development time by 2-3 times
 
-In a fast changing mobile applicatoin world, only a few app can stay for 3 years. And after that, many of them will be either dead or revamped, only a few will stay. That makes it is not so meaningful to small scale app 
+In a fast changing mobile applicatoin world, only a few app can stay for 3 years. And after that, many of them will be either dead or revamped, only a few will stay. That makes it not so meaningful to small scale app 
